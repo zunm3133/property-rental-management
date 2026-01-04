@@ -14,6 +14,7 @@ const HomePage = () => {
       </div>
       <div className="imgContainer">
         <img src="/property.png" alt="" />
+        <div>SOoo goodd</div>
       </div>
     </div>
   );
